@@ -949,7 +949,7 @@ main {
   100% { transform: scale(1); }
 }
 
-.project-item > a { width: 100%; }
+.project-item > a { width: 50%; }
 
 .project-img {
   position: relative;
